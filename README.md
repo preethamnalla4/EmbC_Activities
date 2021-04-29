@@ -2,9 +2,9 @@
 
 # SIMULATION
 ## ON
- (https://github.com/preethamnalla4/EmbC_Activities/blob/main/Simulation/on.PNG)
+ https://github.com/preethamnalla4/EmbC_Activities/blob/main/Simulation/on.PNG
 ## OFF
- (https://github.com/preethamnalla4/EmbC_Activities/blob/main/Simulation/off.PNG)
+ https://github.com/preethamnalla4/EmbC_Activities/blob/main/Simulation/off.PNG
 
 
 #### CI and Code Quality
