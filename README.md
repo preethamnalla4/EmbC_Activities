@@ -1,7 +1,7 @@
 # Embedded C Programming Activity with Continuous Integration and Code Quality
 
 # SIMULATION
-![ON](https://github.com/preethamnalla4/EmbC_Activities/blob/main/Simulation/on.PNG)
+![ON](https://github.com/preethamnalla4/EmbC_Activities/blob/main/Simulation/WHEN%20ON.PNG)
 ![OFF](https://github.com/preethamnalla4/EmbC_Activities/blob/main/Simulation/off.PNG)
 
 #### CI and Code Quality
