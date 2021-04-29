@@ -13,5 +13,6 @@
 
 |Build|Cppcheck|Codacy|
 |:--:|:--:|:--:|
+[![Cppcheck](https://github.com/preethamnalla4/EmbC_Activities/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/preethamnalla4/EmbC_Activities/actions/workflows/CodeQuality.yml)
 
 
