@@ -31,16 +31,3 @@ uint16_t ReadADC(uint16_t ch)
     ADCSRA|=(1<ADIF);
     return(ADC);
 }
-int main(void)
-{
-    InitADC();
-    uint16_t temp;
-
-    while(1)
-    {
-        temp= ReadADC(0);
-        _delay_ms(200);
-    }
-
-    return 0;
-}
