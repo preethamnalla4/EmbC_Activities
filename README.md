@@ -12,8 +12,8 @@
 #### CI and Code Quality
 
 |Cppcheck|Codacy|
-|:--:|:--:|
-[![Cppcheck](https://github.com/preethamnalla4/EmbC_Activities/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/preethamnalla4/EmbC_Activities/actions/workflows/CodeQuality.yml)
-[![Compile-Linux](https://github.com/preethamnalla4/EmbC_Activities/actions/workflows/Compile.yml/badge.svg)](https://github.com/preethamnalla4/EmbC_Activities/actions/workflows/Compile.yml)
+|[![Cppcheck](https://github.com/preethamnalla4/EmbC_Activities/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/preethamnalla4/EmbC_Activities/actions/workflows/CodeQuality.yml)
+|[![Compile-Linux](https://github.com/preethamnalla4/EmbC_Activities/actions/workflows/Compile.yml/badge.svg)](https://github.com/preethamnalla4/EmbC_Activities/actions/workflows/Compile.yml)
+|
 
 
