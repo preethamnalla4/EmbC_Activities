@@ -1,9 +1,9 @@
-PROJ_NAME = Activity
+PROJ_NAME = SeatHeatingSystem
 
 BUILD_DIR = Build
 
 # All Source code files
-SRC = EMBC_1.c
+SRC = SeatHeatingSystem.c
 #src/user_utils.c
 
 # All header file paths
