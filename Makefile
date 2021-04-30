@@ -3,7 +3,7 @@ PROJ_NAME = SeatHeatingSystem
 BUILD_DIR = Build
 
 # All Source code files
-SRC = SeatHeatingSystem.c
+SRC = EMBC_1.c
 #src/user_utils.c
 
 # All header file paths
