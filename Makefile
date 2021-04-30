@@ -3,7 +3,11 @@ PROJ_NAME = EMBEDDED_PROJECT
 BUILD_DIR = Build
 
 # All Source code files
-SRC = SeatHeatingSystem.c
+SRC = src/Activity1.c\
+src/Activity2.c\
+src/Activity3.c\
+src/Activity4.c\
+SeatHeatingSystem.c
 #src/user_utils.c
 
 # All header file paths
