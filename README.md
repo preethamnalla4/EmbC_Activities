@@ -9,7 +9,7 @@
 
 
 # OFF
-Simulation/WHEN OFF.PNG
+(https://github.com/preethamnalla4/EmbC_Activities/blob/main/Simulation/WHEN%20OFF.PNG)
 
 #### CI and Code Quality
 |Build|Cppcheck|Codacy|
