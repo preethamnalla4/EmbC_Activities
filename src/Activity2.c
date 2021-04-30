@@ -29,7 +29,7 @@ void InitADC()
  * @param ch 
  * @return uint16_t 
  */
-uint16_t ReadADC(uint16_t ch)
+uint16_t ReadADC(uint8_t ch)
 {
     //select ADC channel ch must be 0-7
     ADMUX&=0xf8;
