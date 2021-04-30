@@ -3,11 +3,7 @@ PROJ_NAME = SeatHeatingSystem
 BUILD_DIR = Build
 
 # All Source code files
-SRC = SeatingHeatingSystem.c\
-src/Ativity1.c\
-src/Ativity2.c\
-src/Ativity3.c\
-src/Ativity4.c
+SRC = EMBC_1.c
 #src/user_utils.c
 
 # All header file paths
