@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1619764890 source:c:\users\admin\desktop\embc_project\activity2\fuse.c
-	<avr/io.h>
-
-1619765237 source:c:\users\admin\desktop\embc_project\activity2\main.c
-	<avr/io.h>
-	<util/delay.h>
-
