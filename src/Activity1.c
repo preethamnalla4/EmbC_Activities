@@ -16,7 +16,7 @@
  * 
  * @return int 
  */
-int main(void)
+void Buttons_LED_Init()
 {
 
 DDRB|=(1<<PB0);
