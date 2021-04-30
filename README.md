@@ -5,10 +5,10 @@
 
 
 # SIMULATION
-# ON
+# WHEN ON
 ![ON](https://github.com/preethamnalla4/EmbC_Activities/blob/main/Simulation/WHEN%20ON.PNG)
 
-# OFF
+# WHEN OFF
 ![OFF](https://github.com/preethamnalla4/EmbC_Activities/blob/main/Simulation/WHEN%20OFF.PNG)
 
 #### CI and Code Quality
